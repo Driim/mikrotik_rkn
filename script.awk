@@ -35,7 +35,7 @@ function grpstd(val, tot, cnt, mean, sqtot) {
     return sqrt(sqtot / cnt)
 }
 
-BEGIN { limit=75 }
+BEGIN { limit=750 }
 
 { k[NR]=ip2dec(sanitize($1)) }
 
