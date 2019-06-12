@@ -1,4 +1,4 @@
-@include "lib_netaddr.awk"
+@include "/home/swatcher/rkn_mikrotik_addr_list/lib_netaddr.awk"
 
 function sanitize(ip) {
     split(ip, slice, ".")
