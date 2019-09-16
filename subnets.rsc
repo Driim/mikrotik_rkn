@@ -238,7 +238,7 @@ add address=3.13.176.0/20 list=rkn
 add address=3.13.184.0/21 list=rkn
 add address=3.13.192.0/20 list=rkn
 add address=3.13.200.0/21 list=rkn
-add address=3.13.208.0/21 list=rkn
+add address=3.13.208.0/20 list=rkn
 add address=3.13.216.0/21 list=rkn
 add address=3.13.224.0/20 list=rkn
 add address=3.13.232.0/21 list=rkn
@@ -306,7 +306,7 @@ add address=3.15.216.0/21 list=rkn
 add address=3.15.224.0/20 list=rkn
 add address=3.15.224.0/19 list=rkn
 add address=3.15.240.0/20 list=rkn
-add address=3.15.254.0/23 list=rkn
+add address=3.15.255.0/24 list=rkn
 add address=3.16.0.0/21 list=rkn
 add address=3.16.8.0/21 list=rkn
 add address=3.16.17.146/32 list=rkn
@@ -343,7 +343,7 @@ add address=3.16.240.0/21 list=rkn
 add address=3.16.248.0/21 list=rkn
 add address=3.17.0.0/21 list=rkn
 add address=3.17.8.0/24 list=rkn
-add address=3.17.15.0/25 list=rkn
+add address=3.17.12.0/22 list=rkn
 add address=3.17.16.0/21 list=rkn
 add address=3.17.26.220/32 list=rkn
 add address=3.17.30.0/23 list=rkn
@@ -433,11 +433,11 @@ add address=3.19.176.0/20 list=rkn
 add address=3.19.184.0/21 list=rkn
 add address=3.19.192.0/20 list=rkn
 add address=3.19.200.0/21 list=rkn
-add address=3.19.208.0/21 list=rkn
+add address=3.19.208.0/20 list=rkn
 add address=3.19.216.0/21 list=rkn
 add address=3.19.224.0/21 list=rkn
 add address=3.19.232.0/21 list=rkn
-add address=3.19.247.0/24 list=rkn
+add address=3.19.244.0/22 list=rkn
 add address=3.19.248.0/21 list=rkn
 add address=3.24.15.52/32 list=rkn
 add address=3.24.18.0/23 list=rkn
@@ -652,7 +652,7 @@ add address=3.86.88.0/21 list=rkn
 add address=3.86.96.0/20 list=rkn
 add address=3.86.96.0/19 list=rkn
 add address=3.86.112.0/20 list=rkn
-add address=3.86.126.0/23 list=rkn
+add address=3.86.127.53/32 list=rkn
 add address=3.86.129.1/32 list=rkn
 add address=3.86.136.0/21 list=rkn
 add address=3.86.144.0/20 list=rkn
@@ -709,7 +709,6 @@ add address=3.88.40.0/21 list=rkn
 add address=3.88.48.0/20 list=rkn
 add address=3.88.56.0/21 list=rkn
 add address=3.88.64.0/20 list=rkn
-add address=3.88.79.187/32 list=rkn
 add address=3.88.80.97/32 list=rkn
 add address=3.88.80.0/20 list=rkn
 add address=3.88.93.254/32 list=rkn
@@ -753,7 +752,6 @@ add address=3.89.136.0/21 list=rkn
 add address=3.89.144.0/20 list=rkn
 add address=3.89.152.0/21 list=rkn
 add address=3.89.160.0/20 list=rkn
-add address=3.89.174.243/32 list=rkn
 add address=3.89.176.0/20 list=rkn
 add address=3.89.188.0/22 list=rkn
 add address=3.89.192.0/20 list=rkn
@@ -797,7 +795,7 @@ add address=3.90.232.0/21 list=rkn
 add address=3.90.240.0/20 list=rkn
 add address=3.90.248.0/21 list=rkn
 add address=3.91.0.0/20 list=rkn
-add address=3.91.8.0/21 list=rkn
+add address=3.91.0.0/19 list=rkn
 add address=3.91.16.0/20 list=rkn
 add address=3.91.24.0/21 list=rkn
 add address=3.91.32.0/20 list=rkn
@@ -880,7 +878,7 @@ add address=3.93.114.0/24 list=rkn
 add address=3.93.120.0/21 list=rkn
 add address=3.93.128.202/32 list=rkn
 add address=3.93.135.212/32 list=rkn
-add address=3.93.140.0/22 list=rkn
+add address=3.93.136.0/21 list=rkn
 add address=3.93.144.0/20 list=rkn
 add address=3.93.152.0/21 list=rkn
 add address=3.93.160.0/20 list=rkn
@@ -1103,7 +1101,7 @@ add address=3.120.48.0/21 list=rkn
 add address=3.120.56.0/21 list=rkn
 add address=3.120.64.0/21 list=rkn
 add address=3.120.72.0/21 list=rkn
-add address=3.120.80.0/21 list=rkn
+add address=3.120.80.0/20 list=rkn
 add address=3.120.88.0/21 list=rkn
 add address=3.120.96.0/21 list=rkn
 add address=3.120.104.0/21 list=rkn
@@ -1317,7 +1315,7 @@ add address=3.209.77.216/32 list=rkn
 add address=3.209.80.0/20 list=rkn
 add address=3.209.94.0/24 list=rkn
 add address=3.209.96.0/22 list=rkn
-add address=3.209.102.88/32 list=rkn
+add address=3.209.100.0/22 list=rkn
 add address=3.209.112.0/23 list=rkn
 add address=3.209.120.244/32 list=rkn
 add address=3.209.126.96/32 list=rkn
@@ -1366,7 +1364,7 @@ add address=3.210.96.0/22 list=rkn
 add address=3.210.100.0/22 list=rkn
 add address=3.210.104.0/22 list=rkn
 add address=3.210.111.0/26 list=rkn
-add address=3.210.112.0/23 list=rkn
+add address=3.210.112.0/22 list=rkn
 add address=3.210.118.0/24 list=rkn
 add address=3.210.120.0/22 list=rkn
 add address=3.210.127.11/32 list=rkn
@@ -1433,8 +1431,7 @@ add address=3.211.192.0/24 list=rkn
 add address=3.211.196.0/23 list=rkn
 add address=3.211.200.0/21 list=rkn
 add address=3.211.208.0/21 list=rkn
-add address=3.211.216.0/22 list=rkn
-add address=3.211.221.133/32 list=rkn
+add address=3.211.216.0/21 list=rkn
 add address=3.211.224.0/21 list=rkn
 add address=3.211.232.0/22 list=rkn
 add address=3.211.239.102/32 list=rkn
@@ -1650,9 +1647,9 @@ add address=3.217.63.70/32 list=rkn
 add address=3.217.64.0/21 list=rkn
 add address=3.217.72.223/32 list=rkn
 add address=3.217.76.0/22 list=rkn
-add address=3.217.82.57/32 list=rkn
+add address=3.217.82.32/27 list=rkn
 add address=3.217.86.186/32 list=rkn
-add address=3.217.89.125/32 list=rkn
+add address=3.217.88.0/23 list=rkn
 add address=3.217.92.0/22 list=rkn
 add address=3.217.96.0/21 list=rkn
 add address=3.217.104.0/21 list=rkn
@@ -1681,6 +1678,7 @@ add address=3.217.239.12/32 list=rkn
 add address=3.217.240.0/21 list=rkn
 add address=3.217.247.234/32 list=rkn
 add address=3.217.250.141/32 list=rkn
+add address=3.217.254.246/32 list=rkn
 add address=3.218.0.0/22 list=rkn
 add address=3.218.6.0/23 list=rkn
 add address=3.218.8.0/21 list=rkn
@@ -1812,7 +1810,7 @@ add address=3.221.120.0/21 list=rkn
 add address=3.221.128.0/21 list=rkn
 add address=3.221.136.0/21 list=rkn
 add address=3.221.144.0/20 list=rkn
-add address=3.221.152.0/21 list=rkn
+add address=3.221.156.0/22 list=rkn
 add address=3.221.160.0/20 list=rkn
 add address=3.221.168.0/21 list=rkn
 add address=3.221.176.0/21 list=rkn
@@ -1827,7 +1825,6 @@ add address=3.221.224.0/21 list=rkn
 add address=3.221.232.0/21 list=rkn
 add address=3.221.240.0/21 list=rkn
 add address=3.221.248.0/21 list=rkn
-add address=3.221.255.0/24 list=rkn
 add address=3.222.0.0/21 list=rkn
 add address=3.222.8.0/21 list=rkn
 add address=3.222.16.0/21 list=rkn
@@ -2069,13 +2066,11 @@ add address=3.229.64.0/21 list=rkn
 add address=3.229.72.0/21 list=rkn
 add address=3.229.80.0/21 list=rkn
 add address=3.229.88.0/21 list=rkn
-add address=3.229.95.240/32 list=rkn
 add address=3.229.96.0/21 list=rkn
 add address=3.229.104.0/21 list=rkn
 add address=3.229.111.174/32 list=rkn
 add address=3.229.112.0/21 list=rkn
 add address=3.229.120.0/21 list=rkn
-add address=3.229.127.192/32 list=rkn
 add address=3.229.128.0/21 list=rkn
 add address=3.229.136.0/22 list=rkn
 add address=3.229.140.0/22 list=rkn
@@ -2087,15 +2082,15 @@ add address=3.229.176.0/21 list=rkn
 add address=3.229.184.0/21 list=rkn
 add address=3.229.192.0/21 list=rkn
 add address=3.229.200.0/21 list=rkn
-add address=3.229.208.0/23 list=rkn
-add address=3.229.212.0/22 list=rkn
+add address=3.229.208.0/21 list=rkn
+add address=3.229.215.212/32 list=rkn
 add address=3.229.216.0/21 list=rkn
 add address=3.229.224.0/21 list=rkn
 add address=3.229.232.0/21 list=rkn
 add address=3.229.240.0/21 list=rkn
 add address=3.229.249.173/32 list=rkn
 add address=3.229.252.0/22 list=rkn
-add address=3.230.0.0/21 list=rkn
+add address=3.230.0.0/20 list=rkn
 add address=3.230.8.0/21 list=rkn
 add address=3.230.16.0/22 list=rkn
 add address=3.248.0.0/21 list=rkn
@@ -2121,8 +2116,8 @@ add address=3.248.152.0/21 list=rkn
 add address=3.248.160.0/20 list=rkn
 add address=3.248.160.0/19 list=rkn
 add address=3.248.176.0/20 list=rkn
+add address=3.248.191.224/27 list=rkn
 add address=3.248.192.0/21 list=rkn
-add address=3.248.199.240/28 list=rkn
 add address=3.248.192.0/19 list=rkn
 add address=3.248.208.0/21 list=rkn
 add address=4.14.216.144/32 list=rkn
@@ -2531,7 +2526,7 @@ add address=13.58.128.0/21 list=rkn
 add address=13.58.136.0/21 list=rkn
 add address=13.58.144.0/20 list=rkn
 add address=13.58.152.0/21 list=rkn
-add address=13.58.160.0/21 list=rkn
+add address=13.58.160.0/20 list=rkn
 add address=13.58.168.0/21 list=rkn
 add address=13.58.176.0/21 list=rkn
 add address=13.58.184.0/21 list=rkn
@@ -2543,7 +2538,7 @@ add address=13.58.224.0/20 list=rkn
 add address=13.58.232.0/21 list=rkn
 add address=13.58.240.0/21 list=rkn
 add address=13.58.248.0/21 list=rkn
-add address=13.59.0.0/21 list=rkn
+add address=13.59.0.0/20 list=rkn
 add address=13.59.8.0/21 list=rkn
 add address=13.59.16.0/21 list=rkn
 add address=13.59.24.0/21 list=rkn
@@ -2876,14 +2871,13 @@ add address=13.209.110.200/32 list=rkn
 add address=13.209.112.0/22 list=rkn
 add address=13.209.120.0/24 list=rkn
 add address=13.209.126.56/32 list=rkn
-add address=13.209.131.114/32 list=rkn
+add address=13.209.128.0/21 list=rkn
 add address=13.209.139.108/32 list=rkn
 add address=13.209.145.26/32 list=rkn
 add address=13.209.150.202/32 list=rkn
-add address=13.209.172.0/22 list=rkn
+add address=13.209.168.0/21 list=rkn
 add address=13.209.176.0/21 list=rkn
-add address=13.209.184.0/22 list=rkn
-add address=13.209.191.231/32 list=rkn
+add address=13.209.184.0/21 list=rkn
 add address=13.209.192.0/21 list=rkn
 add address=13.209.201.161/32 list=rkn
 add address=13.209.208.172/32 list=rkn
@@ -2892,7 +2886,7 @@ add address=13.209.216.0/22 list=rkn
 add address=13.209.224.196/32 list=rkn
 add address=13.209.229.123/32 list=rkn
 add address=13.209.241.57/32 list=rkn
-add address=13.209.245.190/32 list=rkn
+add address=13.209.244.0/22 list=rkn
 add address=13.209.248.0/21 list=rkn
 add address=13.210.223.107/32 list=rkn
 add address=13.211.118.61/32 list=rkn
@@ -3147,6 +3141,7 @@ add address=13.235.24.0/21 list=rkn
 add address=13.235.32.0/20 list=rkn
 add address=13.235.40.0/21 list=rkn
 add address=13.235.50.0/23 list=rkn
+add address=13.235.91.103/32 list=rkn
 add address=13.235.92.0/22 list=rkn
 add address=13.235.96.0/20 list=rkn
 add address=13.235.112.0/20 list=rkn
@@ -3209,7 +3204,7 @@ add address=13.250.144.5/32 list=rkn
 add address=13.250.150.42/32 list=rkn
 add address=13.250.154.0/23 list=rkn
 add address=13.250.160.114/32 list=rkn
-add address=13.250.167.42/32 list=rkn
+add address=13.250.164.0/22 list=rkn
 add address=13.250.168.0/21 list=rkn
 add address=13.250.176.217/32 list=rkn
 add address=13.250.181.120/32 list=rkn
@@ -3276,6 +3271,7 @@ add address=15.164.17.49/32 list=rkn
 add address=15.164.21.169/32 list=rkn
 add address=15.164.24.0/21 list=rkn
 add address=15.164.32.0/21 list=rkn
+add address=15.164.50.218/32 list=rkn
 add address=15.164.56.27/32 list=rkn
 add address=15.164.60.0/22 list=rkn
 add address=15.164.68.0/23 list=rkn
@@ -3283,21 +3279,23 @@ add address=15.164.72.0/22 list=rkn
 add address=15.164.82.236/32 list=rkn
 add address=15.164.87.119/32 list=rkn
 add address=15.164.88.0/22 list=rkn
+add address=15.164.99.208/32 list=rkn
+add address=15.164.110.63/32 list=rkn
 add address=15.164.114.0/24 list=rkn
 add address=15.164.118.156/32 list=rkn
 add address=15.164.120.88/32 list=rkn
 add address=15.164.124.0/22 list=rkn
 add address=15.164.128.0/21 list=rkn
-add address=15.164.138.223/32 list=rkn
-add address=15.164.142.128/25 list=rkn
+add address=15.164.136.0/21 list=rkn
 add address=15.164.148.0/22 list=rkn
 add address=15.164.154.0/23 list=rkn
 add address=15.164.161.192/26 list=rkn
 add address=15.164.167.0/24 list=rkn
 add address=15.164.172.69/32 list=rkn
-add address=15.164.189.0/25 list=rkn
+add address=15.164.188.0/22 list=rkn
 add address=15.164.192.0/21 list=rkn
 add address=15.164.200.0/21 list=rkn
+add address=15.164.217.40/32 list=rkn
 add address=15.164.245.0/24 list=rkn
 add address=15.185.32.246/32 list=rkn
 add address=15.188.0.0/20 list=rkn
@@ -3311,6 +3309,7 @@ add address=15.188.64.0/20 list=rkn
 add address=15.188.64.0/19 list=rkn
 add address=15.188.64.0/18 list=rkn
 add address=15.188.96.0/20 list=rkn
+add address=15.188.108.192/26 list=rkn
 add address=15.206.0.64/27 list=rkn
 add address=15.222.0.0/20 list=rkn
 add address=15.222.8.0/21 list=rkn
@@ -3486,7 +3485,7 @@ add address=18.140.118.0/23 list=rkn
 add address=18.140.120.0/21 list=rkn
 add address=18.140.128.0/21 list=rkn
 add address=18.140.136.0/21 list=rkn
-add address=18.140.144.0/21 list=rkn
+add address=18.140.144.0/20 list=rkn
 add address=18.140.152.0/21 list=rkn
 add address=18.140.160.0/21 list=rkn
 add address=18.140.168.0/21 list=rkn
@@ -3549,8 +3548,7 @@ add address=18.182.120.0/21 list=rkn
 add address=18.182.128.0/21 list=rkn
 add address=18.182.135.121/32 list=rkn
 add address=18.182.136.0/21 list=rkn
-add address=18.182.146.162/32 list=rkn
-add address=18.182.150.215/32 list=rkn
+add address=18.182.144.0/21 list=rkn
 add address=18.182.152.0/22 list=rkn
 add address=18.182.156.0/22 list=rkn
 add address=18.182.160.0/21 list=rkn
@@ -3589,7 +3587,7 @@ add address=18.184.144.0/20 list=rkn
 add address=18.184.152.0/21 list=rkn
 add address=18.184.160.0/20 list=rkn
 add address=18.184.168.0/21 list=rkn
-add address=18.184.176.0/21 list=rkn
+add address=18.184.176.0/20 list=rkn
 add address=18.184.184.0/21 list=rkn
 add address=18.184.192.0/20 list=rkn
 add address=18.184.200.0/21 list=rkn
@@ -3647,7 +3645,7 @@ add address=18.188.96.0/21 list=rkn
 add address=18.188.104.0/21 list=rkn
 add address=18.188.112.0/20 list=rkn
 add address=18.188.120.0/21 list=rkn
-add address=18.188.128.0/21 list=rkn
+add address=18.188.128.0/20 list=rkn
 add address=18.188.136.0/21 list=rkn
 add address=18.188.144.0/21 list=rkn
 add address=18.188.152.0/21 list=rkn
@@ -3763,7 +3761,7 @@ add address=18.195.192.0/21 list=rkn
 add address=18.195.200.0/21 list=rkn
 add address=18.195.208.0/20 list=rkn
 add address=18.195.216.0/21 list=rkn
-add address=18.195.224.0/21 list=rkn
+add address=18.195.224.0/20 list=rkn
 add address=18.195.232.0/21 list=rkn
 add address=18.195.240.0/20 list=rkn
 add address=18.195.248.0/21 list=rkn
@@ -3871,6 +3869,7 @@ add address=18.202.94.0/23 list=rkn
 add address=18.202.96.0/21 list=rkn
 add address=18.202.104.0/21 list=rkn
 add address=18.202.112.0/21 list=rkn
+add address=18.202.119.218/32 list=rkn
 add address=18.202.120.0/21 list=rkn
 add address=18.202.128.0/21 list=rkn
 add address=18.202.136.0/21 list=rkn
@@ -3894,7 +3893,7 @@ add address=18.203.48.0/20 list=rkn
 add address=18.203.60.0/22 list=rkn
 add address=18.203.64.0/19 list=rkn
 add address=18.203.80.0/20 list=rkn
-add address=18.203.92.0/22 list=rkn
+add address=18.203.64.0/18 list=rkn
 add address=18.203.96.0/20 list=rkn
 add address=18.203.110.0/23 list=rkn
 add address=18.203.112.0/20 list=rkn
@@ -3907,8 +3906,7 @@ add address=18.203.176.0/20 list=rkn
 add address=18.203.184.0/21 list=rkn
 add address=18.203.192.0/21 list=rkn
 add address=18.203.200.0/21 list=rkn
-add address=18.203.208.0/22 list=rkn
-add address=18.203.212.0/22 list=rkn
+add address=18.203.208.0/21 list=rkn
 add address=18.203.216.0/21 list=rkn
 add address=18.203.224.0/21 list=rkn
 add address=18.203.224.0/19 list=rkn
@@ -3969,7 +3967,7 @@ add address=18.205.134.59/32 list=rkn
 add address=18.205.136.16/32 list=rkn
 add address=18.205.143.88/32 list=rkn
 add address=18.205.144.0/20 list=rkn
-add address=18.205.158.0/23 list=rkn
+add address=18.205.159.0/24 list=rkn
 add address=18.205.160.0/20 list=rkn
 add address=18.205.176.0/21 list=rkn
 add address=18.205.184.0/21 list=rkn
@@ -4052,7 +4050,7 @@ add address=18.208.12.0/22 list=rkn
 add address=18.208.17.25/32 list=rkn
 add address=18.208.20.167/32 list=rkn
 add address=18.208.26.0/25 list=rkn
-add address=18.208.40.41/32 list=rkn
+add address=18.208.40.0/22 list=rkn
 add address=18.208.47.75/32 list=rkn
 add address=18.208.51.106/32 list=rkn
 add address=18.208.54.95/32 list=rkn
@@ -4076,7 +4074,6 @@ add address=18.208.192.0/19 list=rkn
 add address=18.208.208.0/20 list=rkn
 add address=18.208.220.0/22 list=rkn
 add address=18.208.224.0/20 list=rkn
-add address=18.208.232.208/32 list=rkn
 add address=18.208.240.0/20 list=rkn
 add address=18.209.0.0/20 list=rkn
 add address=18.209.8.0/21 list=rkn
@@ -4101,14 +4098,14 @@ add address=18.209.145.122/32 list=rkn
 add address=18.209.156.0/22 list=rkn
 add address=18.209.160.0/20 list=rkn
 add address=18.209.168.0/21 list=rkn
-add address=18.209.176.0/23 list=rkn
+add address=18.209.176.0/20 list=rkn
 add address=18.209.184.0/22 list=rkn
 add address=18.209.191.58/32 list=rkn
 add address=18.209.192.211/32 list=rkn
 add address=18.209.197.48/32 list=rkn
 add address=18.209.206.153/32 list=rkn
 add address=18.209.208.0/20 list=rkn
-add address=18.209.221.0/24 list=rkn
+add address=18.209.221.128/25 list=rkn
 add address=18.209.224.0/20 list=rkn
 add address=18.209.236.0/22 list=rkn
 add address=18.209.240.0/21 list=rkn
@@ -4131,6 +4128,7 @@ add address=18.210.102.185/32 list=rkn
 add address=18.210.110.0/23 list=rkn
 add address=18.210.116.0/22 list=rkn
 add address=18.210.126.151/32 list=rkn
+add address=18.210.128.162/32 list=rkn
 add address=18.210.136.160/32 list=rkn
 add address=18.210.140.133/32 list=rkn
 add address=18.210.144.83/32 list=rkn
@@ -4148,7 +4146,7 @@ add address=18.210.208.0/22 list=rkn
 add address=18.210.216.0/21 list=rkn
 add address=18.210.227.131/32 list=rkn
 add address=18.210.232.26/32 list=rkn
-add address=18.210.236.161/32 list=rkn
+add address=18.210.236.0/23 list=rkn
 add address=18.210.241.0/24 list=rkn
 add address=18.210.245.122/32 list=rkn
 add address=18.210.255.166/32 list=rkn
@@ -4181,7 +4179,7 @@ add address=18.211.137.0/25 list=rkn
 add address=18.211.140.238/32 list=rkn
 add address=18.211.144.0/21 list=rkn
 add address=18.211.160.32/27 list=rkn
-add address=18.211.170.133/32 list=rkn
+add address=18.211.170.0/23 list=rkn
 add address=18.211.176.0/22 list=rkn
 add address=18.211.187.114/32 list=rkn
 add address=18.211.188.0/22 list=rkn
@@ -4297,9 +4295,8 @@ add address=18.214.224.0/21 list=rkn
 add address=18.214.231.151/32 list=rkn
 add address=18.214.236.239/32 list=rkn
 add address=18.214.240.0/21 list=rkn
-add address=18.214.250.0/23 list=rkn
-add address=18.214.255.206/32 list=rkn
-add address=18.215.2.0/24 list=rkn
+add address=18.214.248.0/21 list=rkn
+add address=18.215.0.0/21 list=rkn
 add address=18.215.8.0/21 list=rkn
 add address=18.215.16.0/22 list=rkn
 add address=18.215.24.249/32 list=rkn
@@ -4425,7 +4422,7 @@ add address=18.218.192.0/20 list=rkn
 add address=18.218.200.0/21 list=rkn
 add address=18.218.208.0/21 list=rkn
 add address=18.218.216.0/21 list=rkn
-add address=18.218.224.0/21 list=rkn
+add address=18.218.224.0/20 list=rkn
 add address=18.218.232.0/21 list=rkn
 add address=18.218.240.0/20 list=rkn
 add address=18.218.248.0/21 list=rkn
@@ -4443,7 +4440,7 @@ add address=18.219.80.0/21 list=rkn
 add address=18.219.88.0/21 list=rkn
 add address=18.219.96.0/21 list=rkn
 add address=18.219.104.0/21 list=rkn
-add address=18.219.112.0/21 list=rkn
+add address=18.219.112.0/20 list=rkn
 add address=18.219.120.0/21 list=rkn
 add address=18.219.128.0/21 list=rkn
 add address=18.219.136.0/21 list=rkn
@@ -4475,7 +4472,7 @@ add address=18.220.80.0/21 list=rkn
 add address=18.220.88.0/21 list=rkn
 add address=18.220.96.0/21 list=rkn
 add address=18.220.104.0/21 list=rkn
-add address=18.220.112.0/21 list=rkn
+add address=18.220.112.0/20 list=rkn
 add address=18.220.120.0/21 list=rkn
 add address=18.220.128.0/20 list=rkn
 add address=18.220.136.0/21 list=rkn
@@ -4552,7 +4549,7 @@ add address=18.222.216.0/21 list=rkn
 add address=18.222.224.0/21 list=rkn
 add address=18.222.232.0/21 list=rkn
 add address=18.222.240.0/21 list=rkn
-add address=18.222.248.0/22 list=rkn
+add address=18.222.248.0/21 list=rkn
 add address=18.222.254.247/32 list=rkn
 add address=18.223.6.0/23 list=rkn
 add address=18.223.8.0/21 list=rkn
@@ -4921,7 +4918,7 @@ add address=23.22.47.165/32 list=rkn
 add address=23.22.49.175/32 list=rkn
 add address=23.22.52.38/32 list=rkn
 add address=23.22.60.0/23 list=rkn
-add address=23.22.64.57/32 list=rkn
+add address=23.22.64.0/22 list=rkn
 add address=23.22.68.0/23 list=rkn
 add address=23.22.72.0/21 list=rkn
 add address=23.22.80.224/32 list=rkn
@@ -5232,7 +5229,7 @@ add address=23.254.201.113/32 list=rkn
 add address=24.38.86.110/32 list=rkn
 add address=24.97.187.45/32 list=rkn
 add address=24.216.74.53/32 list=rkn
-add address=24.249.199.29/32 list=rkn
+add address=24.249.199.0/27 list=rkn
 add address=26.16.204.35/32 list=rkn
 add address=26.23.230.35/32 list=rkn
 add address=26.228.188.35/32 list=rkn
@@ -5674,7 +5671,7 @@ add address=34.200.65.128/25 list=rkn
 add address=34.200.75.104/32 list=rkn
 add address=34.200.82.99/32 list=rkn
 add address=34.200.88.0/24 list=rkn
-add address=34.200.95.128/25 list=rkn
+add address=34.200.92.0/22 list=rkn
 add address=34.200.96.0/22 list=rkn
 add address=34.200.102.221/32 list=rkn
 add address=34.200.107.71/32 list=rkn
@@ -5701,7 +5698,7 @@ add address=34.200.220.0/22 list=rkn
 add address=34.200.224.0/20 list=rkn
 add address=34.200.224.0/19 list=rkn
 add address=34.200.240.0/20 list=rkn
-add address=34.200.252.0/22 list=rkn
+add address=34.200.248.0/21 list=rkn
 add address=34.201.0.0/20 list=rkn
 add address=34.201.0.0/19 list=rkn
 add address=34.201.16.0/20 list=rkn
@@ -5842,7 +5839,7 @@ add address=34.204.248.0/23 list=rkn
 add address=34.204.254.197/32 list=rkn
 add address=34.205.0.0/20 list=rkn
 add address=34.205.8.0/21 list=rkn
-add address=34.205.15.252/32 list=rkn
+add address=34.205.15.248/29 list=rkn
 add address=34.205.16.0/20 list=rkn
 add address=34.205.24.0/21 list=rkn
 add address=34.205.32.0/21 list=rkn
@@ -6058,7 +6055,7 @@ add address=34.211.96.0/21 list=rkn
 add address=34.211.104.0/21 list=rkn
 add address=34.211.114.119/32 list=rkn
 add address=34.211.112.0/20 list=rkn
-add address=34.211.120.0/21 list=rkn
+add address=34.211.124.0/22 list=rkn
 add address=34.211.128.0/20 list=rkn
 add address=34.211.136.0/21 list=rkn
 add address=34.211.152.0/21 list=rkn
@@ -6101,8 +6098,7 @@ add address=34.212.192.0/20 list=rkn
 add address=34.212.200.0/21 list=rkn
 add address=34.212.208.0/21 list=rkn
 add address=34.212.216.0/21 list=rkn
-add address=34.212.224.0/24 list=rkn
-add address=34.212.231.130/32 list=rkn
+add address=34.212.224.0/21 list=rkn
 add address=34.212.232.0/21 list=rkn
 add address=34.212.240.0/21 list=rkn
 add address=34.212.248.0/21 list=rkn
@@ -6151,7 +6147,7 @@ add address=34.214.72.0/21 list=rkn
 add address=34.214.80.0/20 list=rkn
 add address=34.214.88.0/21 list=rkn
 add address=34.214.96.0/20 list=rkn
-add address=34.214.104.0/21 list=rkn
+add address=34.214.96.0/19 list=rkn
 add address=34.214.112.0/20 list=rkn
 add address=34.214.120.0/21 list=rkn
 add address=34.214.128.0/20 list=rkn
@@ -6307,7 +6303,7 @@ add address=34.219.24.0/21 list=rkn
 add address=34.219.32.0/20 list=rkn
 add address=34.219.32.0/19 list=rkn
 add address=34.219.48.0/20 list=rkn
-add address=34.219.63.192/26 list=rkn
+add address=34.219.63.224/27 list=rkn
 add address=34.219.64.0/20 list=rkn
 add address=34.219.64.0/19 list=rkn
 add address=34.219.85.241/32 list=rkn
@@ -6405,7 +6401,7 @@ add address=34.222.80.0/20 list=rkn
 add address=34.222.96.0/20 list=rkn
 add address=34.222.96.0/19 list=rkn
 add address=34.222.112.0/20 list=rkn
-add address=34.222.127.240/28 list=rkn
+add address=34.222.127.224/27 list=rkn
 add address=34.222.128.0/20 list=rkn
 add address=34.222.128.0/19 list=rkn
 add address=34.222.144.0/20 list=rkn
@@ -6462,6 +6458,7 @@ add address=34.224.208.0/20 list=rkn
 add address=34.224.220.0/22 list=rkn
 add address=34.224.233.64/30 list=rkn
 add address=34.224.237.251/32 list=rkn
+add address=34.224.246.151/32 list=rkn
 add address=34.225.0.0/22 list=rkn
 add address=34.225.16.0/21 list=rkn
 add address=34.225.36.0/23 list=rkn
@@ -6543,7 +6540,6 @@ add address=34.227.56.0/21 list=rkn
 add address=34.227.64.0/20 list=rkn
 add address=34.227.72.0/21 list=rkn
 add address=34.227.80.0/20 list=rkn
-add address=34.227.88.220/32 list=rkn
 add address=34.227.95.0/24 list=rkn
 add address=34.227.96.0/20 list=rkn
 add address=34.227.104.0/21 list=rkn
@@ -6570,13 +6566,13 @@ add address=34.227.251.237/32 list=rkn
 add address=34.227.254.0/23 list=rkn
 add address=34.228.2.86/32 list=rkn
 add address=34.228.0.0/20 list=rkn
-add address=34.228.15.0/24 list=rkn
+add address=34.228.15.128/25 list=rkn
 add address=34.228.16.0/20 list=rkn
 add address=34.228.24.0/21 list=rkn
 add address=34.228.32.0/20 list=rkn
 add address=34.228.40.0/21 list=rkn
 add address=34.228.48.0/20 list=rkn
-add address=34.228.63.0/24 list=rkn
+add address=34.228.62.0/23 list=rkn
 add address=34.228.64.0/21 list=rkn
 add address=34.228.72.0/21 list=rkn
 add address=34.228.80.0/21 list=rkn
@@ -6799,7 +6795,7 @@ add address=34.234.64.0/20 list=rkn
 add address=34.234.72.0/21 list=rkn
 add address=34.234.80.0/20 list=rkn
 add address=34.234.88.0/21 list=rkn
-add address=34.234.96.0/21 list=rkn
+add address=34.234.96.0/20 list=rkn
 add address=34.234.112.150/32 list=rkn
 add address=34.234.116.0/22 list=rkn
 add address=34.234.120.0/22 list=rkn
@@ -6810,7 +6806,7 @@ add address=34.234.152.0/23 list=rkn
 add address=34.234.156.0/23 list=rkn
 add address=34.234.160.0/20 list=rkn
 add address=34.234.172.0/22 list=rkn
-add address=34.234.182.64/32 list=rkn
+add address=34.234.182.0/23 list=rkn
 add address=34.234.189.152/32 list=rkn
 add address=34.234.192.113/32 list=rkn
 add address=34.234.197.106/32 list=rkn
@@ -6945,7 +6941,7 @@ add address=34.238.104.0/22 list=rkn
 add address=34.238.112.0/20 list=rkn
 add address=34.238.120.0/21 list=rkn
 add address=34.238.128.0/20 list=rkn
-add address=34.238.140.0/22 list=rkn
+add address=34.238.142.0/23 list=rkn
 add address=34.238.144.0/20 list=rkn
 add address=34.238.156.0/22 list=rkn
 add address=34.238.160.0/20 list=rkn
@@ -7480,9 +7476,9 @@ add address=34.255.112.0/20 list=rkn
 add address=34.255.128.0/21 list=rkn
 add address=34.255.128.0/19 list=rkn
 add address=34.255.148.0/23 list=rkn
-add address=34.255.154.227/32 list=rkn
-add address=34.255.157.163/32 list=rkn
+add address=34.255.152.0/21 list=rkn
 add address=34.255.160.0/20 list=rkn
+add address=34.255.175.173/32 list=rkn
 add address=34.255.176.0/20 list=rkn
 add address=34.255.190.0/23 list=rkn
 add address=34.255.192.0/20 list=rkn
@@ -7507,7 +7503,8 @@ add address=35.153.64.203/32 list=rkn
 add address=35.153.64.0/20 list=rkn
 add address=35.153.80.0/24 list=rkn
 add address=35.153.96.0/20 list=rkn
-add address=35.153.116.0/22 list=rkn
+add address=35.153.112.0/21 list=rkn
+add address=35.153.119.239/32 list=rkn
 add address=35.153.120.245/32 list=rkn
 add address=35.153.126.0/23 list=rkn
 add address=35.153.128.0/20 list=rkn
@@ -7523,7 +7520,7 @@ add address=35.153.206.0/23 list=rkn
 add address=35.153.208.0/20 list=rkn
 add address=35.153.223.39/32 list=rkn
 add address=35.153.224.0/21 list=rkn
-add address=35.153.234.155/32 list=rkn
+add address=35.153.234.0/23 list=rkn
 add address=35.153.240.0/21 list=rkn
 add address=35.153.252.130/32 list=rkn
 add address=35.154.0.0/21 list=rkn
@@ -7594,7 +7591,7 @@ add address=35.156.128.0/21 list=rkn
 add address=35.156.136.0/21 list=rkn
 add address=35.156.144.0/21 list=rkn
 add address=35.156.152.0/21 list=rkn
-add address=35.156.160.0/21 list=rkn
+add address=35.156.160.0/20 list=rkn
 add address=35.156.168.0/21 list=rkn
 add address=35.156.176.0/21 list=rkn
 add address=35.156.184.0/21 list=rkn
@@ -7646,7 +7643,7 @@ add address=35.158.32.0/21 list=rkn
 add address=35.158.40.0/21 list=rkn
 add address=35.158.48.0/21 list=rkn
 add address=35.158.56.0/21 list=rkn
-add address=35.158.64.0/21 list=rkn
+add address=35.158.64.0/20 list=rkn
 add address=35.158.72.0/21 list=rkn
 add address=35.158.80.0/20 list=rkn
 add address=35.158.88.0/21 list=rkn
@@ -7674,7 +7671,7 @@ add address=35.159.0.0/21 list=rkn
 add address=35.159.8.0/21 list=rkn
 add address=35.159.16.0/20 list=rkn
 add address=35.159.24.0/21 list=rkn
-add address=35.159.32.0/21 list=rkn
+add address=35.159.32.0/20 list=rkn
 add address=35.159.40.0/21 list=rkn
 add address=35.159.48.0/21 list=rkn
 add address=35.160.0.0/21 list=rkn
@@ -7993,7 +7990,7 @@ add address=35.169.112.0/20 list=rkn
 add address=35.169.124.0/22 list=rkn
 add address=35.169.128.0/21 list=rkn
 add address=35.169.142.131/32 list=rkn
-add address=35.169.154.44/32 list=rkn
+add address=35.169.152.0/22 list=rkn
 add address=35.169.160.0/22 list=rkn
 add address=35.169.164.98/32 list=rkn
 add address=35.169.168.37/32 list=rkn
@@ -8045,7 +8042,6 @@ add address=35.170.216.0/22 list=rkn
 add address=35.170.224.0/21 list=rkn
 add address=35.170.232.0/21 list=rkn
 add address=35.170.240.0/20 list=rkn
-add address=35.170.254.25/32 list=rkn
 add address=35.171.0.0/20 list=rkn
 add address=35.171.16.0/20 list=rkn
 add address=35.171.24.0/21 list=rkn
@@ -8125,7 +8121,7 @@ add address=35.173.0.0/21 list=rkn
 add address=35.173.10.26/32 list=rkn
 add address=35.173.12.211/32 list=rkn
 add address=35.173.16.0/21 list=rkn
-add address=35.173.27.5/32 list=rkn
+add address=35.173.24.0/21 list=rkn
 add address=35.173.32.0/22 list=rkn
 add address=35.173.44.0/22 list=rkn
 add address=35.173.49.0/24 list=rkn
@@ -9029,6 +9025,7 @@ add address=45.137.55.251/32 list=rkn
 add address=45.138.157.0/24 list=rkn
 add address=45.141.101.0/25 list=rkn
 add address=45.142.212.20/32 list=rkn
+add address=45.147.76.7/32 list=rkn
 add address=45.147.196.91/32 list=rkn
 add address=45.195.200.0/24 list=rkn
 add address=45.199.15.72/32 list=rkn
@@ -9395,7 +9392,8 @@ add address=50.16.28.0/22 list=rkn
 add address=50.16.32.60/32 list=rkn
 add address=50.16.48.0/21 list=rkn
 add address=50.16.66.91/32 list=rkn
-add address=50.16.101.207/32 list=rkn
+add address=50.16.93.165/32 list=rkn
+add address=50.16.100.0/23 list=rkn
 add address=50.16.133.48/32 list=rkn
 add address=50.16.140.0/22 list=rkn
 add address=50.16.145.18/32 list=rkn
@@ -9407,7 +9405,6 @@ add address=50.16.177.26/32 list=rkn
 add address=50.16.198.18/32 list=rkn
 add address=50.17.0.0/21 list=rkn
 add address=50.17.8.0/21 list=rkn
-add address=50.17.15.130/32 list=rkn
 add address=50.17.16.0/21 list=rkn
 add address=50.17.23.236/32 list=rkn
 add address=50.17.24.0/21 list=rkn
@@ -9422,6 +9419,7 @@ add address=50.17.88.128/25 list=rkn
 add address=50.17.92.0/22 list=rkn
 add address=50.17.96.0/21 list=rkn
 add address=50.17.104.0/21 list=rkn
+add address=50.17.111.200/32 list=rkn
 add address=50.17.112.0/21 list=rkn
 add address=50.17.120.0/21 list=rkn
 add address=50.17.129.0/24 list=rkn
@@ -9898,7 +9896,7 @@ add address=52.1.71.129/32 list=rkn
 add address=52.1.72.0/22 list=rkn
 add address=52.1.76.0/22 list=rkn
 add address=52.1.80.0/23 list=rkn
-add address=52.1.85.205/32 list=rkn
+add address=52.1.85.0/24 list=rkn
 add address=52.1.88.0/21 list=rkn
 add address=52.1.98.16/32 list=rkn
 add address=52.1.102.51/32 list=rkn
@@ -9982,6 +9980,7 @@ add address=52.3.56.0/21 list=rkn
 add address=52.3.72.0/23 list=rkn
 add address=52.3.83.244/32 list=rkn
 add address=52.3.86.95/32 list=rkn
+add address=52.3.94.208/32 list=rkn
 add address=52.3.98.88/32 list=rkn
 add address=52.3.100.0/22 list=rkn
 add address=52.3.106.13/32 list=rkn
@@ -10094,8 +10093,7 @@ add address=52.5.232.0/21 list=rkn
 add address=52.5.244.0/22 list=rkn
 add address=52.5.248.0/22 list=rkn
 add address=52.5.254.0/24 list=rkn
-add address=52.6.0.0/22 list=rkn
-add address=52.6.4.0/23 list=rkn
+add address=52.6.0.0/21 list=rkn
 add address=52.6.8.0/21 list=rkn
 add address=52.6.16.0/22 list=rkn
 add address=52.6.22.145/32 list=rkn
@@ -10118,7 +10116,7 @@ add address=52.6.128.232/32 list=rkn
 add address=52.6.132.0/22 list=rkn
 add address=52.6.136.0/21 list=rkn
 add address=52.6.145.195/32 list=rkn
-add address=52.6.151.0/24 list=rkn
+add address=52.6.150.0/23 list=rkn
 add address=52.6.156.0/23 list=rkn
 add address=52.6.160.0/23 list=rkn
 add address=52.6.168.0/23 list=rkn
@@ -10161,6 +10159,7 @@ add address=52.7.144.0/21 list=rkn
 add address=52.7.151.19/32 list=rkn
 add address=52.7.152.0/23 list=rkn
 add address=52.7.159.208/32 list=rkn
+add address=52.7.162.84/32 list=rkn
 add address=52.7.164.0/22 list=rkn
 add address=52.7.168.0/21 list=rkn
 add address=52.7.176.0/21 list=rkn
@@ -10227,7 +10226,6 @@ add address=52.10.224.0/21 list=rkn
 add address=52.10.232.0/21 list=rkn
 add address=52.10.240.0/21 list=rkn
 add address=52.10.248.0/21 list=rkn
-add address=52.10.255.230/32 list=rkn
 add address=52.11.0.0/21 list=rkn
 add address=52.11.8.0/21 list=rkn
 add address=52.11.16.0/21 list=rkn
@@ -10266,7 +10264,7 @@ add address=52.12.16.0/20 list=rkn
 add address=52.12.24.0/21 list=rkn
 add address=52.12.64.0/20 list=rkn
 add address=52.12.72.0/21 list=rkn
-add address=52.12.80.0/21 list=rkn
+add address=52.12.80.0/20 list=rkn
 add address=52.12.88.0/21 list=rkn
 add address=52.12.96.0/20 list=rkn
 add address=52.12.96.0/19 list=rkn
@@ -10357,7 +10355,7 @@ add address=52.15.112.0/21 list=rkn
 add address=52.15.120.0/21 list=rkn
 add address=52.15.128.0/21 list=rkn
 add address=52.15.136.0/21 list=rkn
-add address=52.15.144.0/21 list=rkn
+add address=52.15.144.0/20 list=rkn
 add address=52.15.152.0/21 list=rkn
 add address=52.15.160.0/20 list=rkn
 add address=52.15.168.0/21 list=rkn
@@ -10786,7 +10784,7 @@ add address=52.28.16.0/21 list=rkn
 add address=52.28.24.0/21 list=rkn
 add address=52.28.32.0/21 list=rkn
 add address=52.28.40.0/21 list=rkn
-add address=52.28.48.0/21 list=rkn
+add address=52.28.48.0/20 list=rkn
 add address=52.28.56.0/21 list=rkn
 add address=52.28.64.0/21 list=rkn
 add address=52.28.72.0/21 list=rkn
@@ -10798,7 +10796,7 @@ add address=52.28.112.0/21 list=rkn
 add address=52.28.120.0/21 list=rkn
 add address=52.28.128.0/21 list=rkn
 add address=52.28.136.0/21 list=rkn
-add address=52.28.143.0/24 list=rkn
+add address=52.28.142.0/23 list=rkn
 add address=52.28.144.0/21 list=rkn
 add address=52.28.152.0/21 list=rkn
 add address=52.28.160.0/20 list=rkn
@@ -10873,7 +10871,7 @@ add address=52.30.192.0/20 list=rkn
 add address=52.30.200.0/21 list=rkn
 add address=52.30.208.0/20 list=rkn
 add address=52.30.216.0/21 list=rkn
-add address=52.30.224.0/20 list=rkn
+add address=52.30.224.0/21 list=rkn
 add address=52.30.232.0/21 list=rkn
 add address=52.30.240.0/20 list=rkn
 add address=52.30.248.0/21 list=rkn
@@ -11252,7 +11250,7 @@ add address=52.42.144.0/21 list=rkn
 add address=52.42.152.0/21 list=rkn
 add address=52.42.160.0/21 list=rkn
 add address=52.42.168.0/21 list=rkn
-add address=52.42.176.0/21 list=rkn
+add address=52.42.176.0/20 list=rkn
 add address=52.42.184.0/21 list=rkn
 add address=52.42.192.0/21 list=rkn
 add address=52.42.200.0/21 list=rkn
@@ -11669,7 +11667,7 @@ add address=52.58.0.0/21 list=rkn
 add address=52.58.8.0/21 list=rkn
 add address=52.58.16.0/21 list=rkn
 add address=52.58.24.0/21 list=rkn
-add address=52.58.32.0/21 list=rkn
+add address=52.58.32.0/20 list=rkn
 add address=52.58.40.0/21 list=rkn
 add address=52.58.48.0/21 list=rkn
 add address=52.58.56.0/21 list=rkn
@@ -11811,6 +11809,7 @@ add address=52.66.184.0/21 list=rkn
 add address=52.66.192.0/20 list=rkn
 add address=52.66.192.0/19 list=rkn
 add address=52.66.212.0/22 list=rkn
+add address=52.66.237.118/32 list=rkn
 add address=52.67.106.125/32 list=rkn
 add address=52.68.0.0/21 list=rkn
 add address=52.68.8.0/21 list=rkn
@@ -12046,7 +12045,7 @@ add address=52.74.14.254/32 list=rkn
 add address=52.74.19.0/24 list=rkn
 add address=52.74.23.186/32 list=rkn
 add address=52.74.24.0/21 list=rkn
-add address=52.74.36.0/23 list=rkn
+add address=52.74.36.0/22 list=rkn
 add address=52.74.40.0/23 list=rkn
 add address=52.74.44.0/22 list=rkn
 add address=52.74.55.0/24 list=rkn
@@ -12131,7 +12130,7 @@ add address=52.77.25.69/32 list=rkn
 add address=52.77.31.175/32 list=rkn
 add address=52.77.32.0/21 list=rkn
 add address=52.77.44.0/22 list=rkn
-add address=52.77.52.73/32 list=rkn
+add address=52.77.52.0/22 list=rkn
 add address=52.77.56.0/22 list=rkn
 add address=52.77.64.91/32 list=rkn
 add address=52.77.72.173/32 list=rkn
@@ -12149,7 +12148,7 @@ add address=52.77.141.45/32 list=rkn
 add address=52.77.144.0/21 list=rkn
 add address=52.77.154.99/32 list=rkn
 add address=52.77.156.0/22 list=rkn
-add address=52.77.164.0/22 list=rkn
+add address=52.77.160.0/21 list=rkn
 add address=52.77.172.0/22 list=rkn
 add address=52.77.176.80/32 list=rkn
 add address=52.77.181.56/32 list=rkn
@@ -12241,7 +12240,7 @@ add address=52.86.8.0/21 list=rkn
 add address=52.86.16.0/21 list=rkn
 add address=52.86.24.141/32 list=rkn
 add address=52.86.38.193/32 list=rkn
-add address=52.86.41.225/32 list=rkn
+add address=52.86.41.0/24 list=rkn
 add address=52.86.52.0/22 list=rkn
 add address=52.86.58.146/32 list=rkn
 add address=52.86.60.192/27 list=rkn
@@ -12487,7 +12486,6 @@ add address=52.192.96.0/21 list=rkn
 add address=52.192.104.0/21 list=rkn
 add address=52.192.112.0/21 list=rkn
 add address=52.192.120.0/21 list=rkn
-add address=52.192.127.135/32 list=rkn
 add address=52.192.128.0/22 list=rkn
 add address=52.192.132.0/22 list=rkn
 add address=52.192.136.0/21 list=rkn
@@ -12512,7 +12510,7 @@ add address=52.192.248.0/21 list=rkn
 add address=52.193.0.0/21 list=rkn
 add address=52.193.7.196/32 list=rkn
 add address=52.193.8.0/22 list=rkn
-add address=52.193.15.0/24 list=rkn
+add address=52.193.12.0/22 list=rkn
 add address=52.193.16.0/21 list=rkn
 add address=52.193.24.0/21 list=rkn
 add address=52.193.32.0/21 list=rkn
@@ -12640,7 +12638,8 @@ add address=52.197.96.0/21 list=rkn
 add address=52.197.104.0/21 list=rkn
 add address=52.197.114.103/32 list=rkn
 add address=52.197.116.0/22 list=rkn
-add address=52.197.120.0/21 list=rkn
+add address=52.197.120.0/22 list=rkn
+add address=52.197.124.0/22 list=rkn
 add address=52.197.128.0/21 list=rkn
 add address=52.197.136.0/21 list=rkn
 add address=52.197.144.0/24 list=rkn
@@ -12685,7 +12684,6 @@ add address=52.198.160.0/21 list=rkn
 add address=52.198.168.0/21 list=rkn
 add address=52.198.175.0/24 list=rkn
 add address=52.198.176.0/21 list=rkn
-add address=52.198.182.0/23 list=rkn
 add address=52.198.184.0/21 list=rkn
 add address=52.198.192.0/22 list=rkn
 add address=52.198.198.0/23 list=rkn
@@ -12739,7 +12737,7 @@ add address=52.200.0.0/21 list=rkn
 add address=52.200.8.0/21 list=rkn
 add address=52.200.16.0/21 list=rkn
 add address=52.200.24.0/21 list=rkn
-add address=52.200.38.208/32 list=rkn
+add address=52.200.36.0/22 list=rkn
 add address=52.200.40.0/21 list=rkn
 add address=52.200.48.0/21 list=rkn
 add address=52.200.56.0/21 list=rkn
@@ -13296,9 +13294,8 @@ add address=52.218.128.3/32 list=rkn
 add address=52.218.144.95/32 list=rkn
 add address=52.218.160.64/27 list=rkn
 add address=52.219.72.19/32 list=rkn
-add address=52.220.0.0/22 list=rkn
-add address=52.220.4.0/22 list=rkn
-add address=52.220.22.145/32 list=rkn
+add address=52.220.0.0/21 list=rkn
+add address=52.220.20.0/22 list=rkn
 add address=52.220.24.146/32 list=rkn
 add address=52.220.31.99/32 list=rkn
 add address=52.220.36.0/23 list=rkn
@@ -13319,7 +13316,7 @@ add address=52.220.134.128/26 list=rkn
 add address=52.220.136.0/21 list=rkn
 add address=52.220.144.0/21 list=rkn
 add address=52.220.159.224/32 list=rkn
-add address=52.220.166.7/32 list=rkn
+add address=52.220.164.0/22 list=rkn
 add address=52.220.175.0/24 list=rkn
 add address=52.220.176.107/32 list=rkn
 add address=52.220.189.227/32 list=rkn
@@ -13331,7 +13328,7 @@ add address=52.220.213.32/32 list=rkn
 add address=52.220.216.26/32 list=rkn
 add address=52.220.220.233/32 list=rkn
 add address=52.220.224.0/21 list=rkn
-add address=52.220.232.0/23 list=rkn
+add address=52.220.232.0/22 list=rkn
 add address=52.220.240.0/22 list=rkn
 add address=52.220.248.0/22 list=rkn
 add address=52.221.4.0/23 list=rkn
@@ -13347,6 +13344,7 @@ add address=52.221.88.0/21 list=rkn
 add address=52.221.100.0/23 list=rkn
 add address=52.221.104.0/21 list=rkn
 add address=52.221.118.0/23 list=rkn
+add address=52.221.121.255/32 list=rkn
 add address=52.221.125.25/32 list=rkn
 add address=52.221.128.0/21 list=rkn
 add address=52.221.142.153/32 list=rkn
@@ -13761,7 +13759,7 @@ add address=54.77.176.0/20 list=rkn
 add address=54.77.184.0/21 list=rkn
 add address=54.77.192.0/21 list=rkn
 add address=54.77.200.0/21 list=rkn
-add address=54.77.208.0/20 list=rkn
+add address=54.77.208.0/21 list=rkn
 add address=54.77.216.0/21 list=rkn
 add address=54.77.224.0/20 list=rkn
 add address=54.77.232.0/21 list=rkn
@@ -13775,7 +13773,7 @@ add address=54.79.115.213/32 list=rkn
 add address=54.79.123.203/32 list=rkn
 add address=54.80.0.0/21 list=rkn
 add address=54.80.8.0/21 list=rkn
-add address=54.80.16.0/21 list=rkn
+add address=54.80.16.0/20 list=rkn
 add address=54.80.24.0/21 list=rkn
 add address=54.80.32.0/21 list=rkn
 add address=54.80.40.0/21 list=rkn
@@ -14261,7 +14259,7 @@ add address=54.95.239.0/24 list=rkn
 add address=54.95.240.0/22 list=rkn
 add address=54.95.248.67/32 list=rkn
 add address=54.95.253.97/32 list=rkn
-add address=54.144.0.0/21 list=rkn
+add address=54.144.0.0/20 list=rkn
 add address=54.144.8.0/21 list=rkn
 add address=54.144.16.0/21 list=rkn
 add address=54.144.24.0/21 list=rkn
@@ -14661,6 +14659,7 @@ add address=54.160.32.0/21 list=rkn
 add address=54.160.40.0/21 list=rkn
 add address=54.160.48.0/21 list=rkn
 add address=54.160.56.0/21 list=rkn
+add address=54.160.77.81/32 list=rkn
 add address=54.160.98.0/24 list=rkn
 add address=54.160.105.119/32 list=rkn
 add address=54.160.113.1/32 list=rkn
@@ -15164,12 +15163,12 @@ add address=54.179.176.0/21 list=rkn
 add address=54.179.184.0/21 list=rkn
 add address=54.180.0.0/20 list=rkn
 add address=54.180.8.0/21 list=rkn
-add address=54.180.18.0/23 list=rkn
-add address=54.180.22.0/23 list=rkn
+add address=54.180.16.0/21 list=rkn
+add address=54.180.25.53/32 list=rkn
 add address=54.180.39.101/32 list=rkn
 add address=54.180.40.128/26 list=rkn
 add address=54.180.44.183/32 list=rkn
-add address=54.180.48.236/32 list=rkn
+add address=54.180.48.224/27 list=rkn
 add address=54.180.56.0/22 list=rkn
 add address=54.180.60.106/32 list=rkn
 add address=54.180.64.0/24 list=rkn
@@ -15183,7 +15182,7 @@ add address=54.180.156.0/22 list=rkn
 add address=54.180.160.0/20 list=rkn
 add address=54.180.176.134/32 list=rkn
 add address=54.180.187.93/32 list=rkn
-add address=54.180.191.8/32 list=rkn
+add address=54.180.190.0/23 list=rkn
 add address=54.183.2.251/32 list=rkn
 add address=54.183.10.125/32 list=rkn
 add address=54.183.51.85/32 list=rkn
@@ -15371,7 +15370,7 @@ add address=54.189.224.0/21 list=rkn
 add address=54.189.232.0/21 list=rkn
 add address=54.189.240.0/21 list=rkn
 add address=54.189.248.0/21 list=rkn
-add address=54.190.0.0/21 list=rkn
+add address=54.190.0.0/20 list=rkn
 add address=54.190.8.0/21 list=rkn
 add address=54.190.16.0/20 list=rkn
 add address=54.190.24.0/21 list=rkn
@@ -15499,7 +15498,7 @@ add address=54.196.160.0/20 list=rkn
 add address=54.196.168.0/21 list=rkn
 add address=54.196.176.0/21 list=rkn
 add address=54.196.184.0/21 list=rkn
-add address=54.196.192.0/21 list=rkn
+add address=54.196.192.0/20 list=rkn
 add address=54.196.200.0/21 list=rkn
 add address=54.196.208.0/20 list=rkn
 add address=54.196.216.0/21 list=rkn
@@ -15551,7 +15550,7 @@ add address=54.198.112.0/20 list=rkn
 add address=54.198.120.0/21 list=rkn
 add address=54.198.128.0/21 list=rkn
 add address=54.198.136.0/21 list=rkn
-add address=54.198.144.0/20 list=rkn
+add address=54.198.144.0/21 list=rkn
 add address=54.198.152.0/21 list=rkn
 add address=54.198.160.0/20 list=rkn
 add address=54.198.168.0/21 list=rkn
@@ -15710,7 +15709,7 @@ add address=54.203.112.0/20 list=rkn
 add address=54.203.120.0/21 list=rkn
 add address=54.203.128.0/21 list=rkn
 add address=54.203.136.0/21 list=rkn
-add address=54.203.144.0/21 list=rkn
+add address=54.203.144.0/20 list=rkn
 add address=54.203.152.0/21 list=rkn
 add address=54.203.160.0/20 list=rkn
 add address=54.203.168.0/21 list=rkn
@@ -15725,6 +15724,7 @@ add address=54.203.232.0/21 list=rkn
 add address=54.203.240.0/22 list=rkn
 add address=54.203.248.0/22 list=rkn
 add address=54.204.3.7/32 list=rkn
+add address=54.204.6.226/32 list=rkn
 add address=54.204.47.0/24 list=rkn
 add address=54.204.48.0/21 list=rkn
 add address=54.204.56.0/21 list=rkn
@@ -15732,8 +15732,8 @@ add address=54.204.64.0/21 list=rkn
 add address=54.204.72.0/21 list=rkn
 add address=54.204.80.0/21 list=rkn
 add address=54.204.88.0/21 list=rkn
-add address=54.204.96.0/23 list=rkn
-add address=54.204.100.0/22 list=rkn
+add address=54.204.96.0/21 list=rkn
+add address=54.204.103.128/25 list=rkn
 add address=54.204.104.0/21 list=rkn
 add address=54.204.112.0/21 list=rkn
 add address=54.204.120.0/21 list=rkn
@@ -15967,7 +15967,7 @@ add address=54.213.64.0/20 list=rkn
 add address=54.213.72.0/21 list=rkn
 add address=54.213.80.0/21 list=rkn
 add address=54.213.88.0/21 list=rkn
-add address=54.213.96.0/21 list=rkn
+add address=54.213.96.0/20 list=rkn
 add address=54.213.104.0/21 list=rkn
 add address=54.213.112.0/21 list=rkn
 add address=54.213.120.0/21 list=rkn
@@ -16032,7 +16032,7 @@ add address=54.218.16.0/20 list=rkn
 add address=54.218.24.0/21 list=rkn
 add address=54.218.32.0/20 list=rkn
 add address=54.218.40.0/21 list=rkn
-add address=54.218.48.0/21 list=rkn
+add address=54.218.48.0/20 list=rkn
 add address=54.218.56.0/21 list=rkn
 add address=54.218.64.0/20 list=rkn
 add address=54.218.64.0/19 list=rkn
@@ -16128,6 +16128,7 @@ add address=54.225.32.0/21 list=rkn
 add address=54.225.40.0/21 list=rkn
 add address=54.225.48.0/21 list=rkn
 add address=54.225.56.0/21 list=rkn
+add address=54.225.104.71/32 list=rkn
 add address=54.225.111.96/32 list=rkn
 add address=54.225.116.181/32 list=rkn
 add address=54.225.125.193/32 list=rkn
@@ -16287,7 +16288,7 @@ add address=54.235.16.0/20 list=rkn
 add address=54.235.24.0/21 list=rkn
 add address=54.235.32.0/20 list=rkn
 add address=54.235.40.0/21 list=rkn
-add address=54.235.48.0/21 list=rkn
+add address=54.235.48.0/20 list=rkn
 add address=54.235.56.0/21 list=rkn
 add address=54.235.94.193/32 list=rkn
 add address=54.235.97.8/32 list=rkn
@@ -16405,7 +16406,7 @@ add address=54.242.128.0/20 list=rkn
 add address=54.242.136.0/21 list=rkn
 add address=54.242.144.0/20 list=rkn
 add address=54.242.152.0/21 list=rkn
-add address=54.242.160.0/21 list=rkn
+add address=54.242.160.0/20 list=rkn
 add address=54.242.168.0/21 list=rkn
 add address=54.242.176.0/21 list=rkn
 add address=54.242.184.0/21 list=rkn
@@ -16419,7 +16420,7 @@ add address=54.242.240.0/21 list=rkn
 add address=54.242.248.0/21 list=rkn
 add address=54.243.0.0/20 list=rkn
 add address=54.243.8.0/21 list=rkn
-add address=54.243.16.0/21 list=rkn
+add address=54.243.16.0/20 list=rkn
 add address=54.243.24.0/22 list=rkn
 add address=54.243.70.214/32 list=rkn
 add address=54.243.129.72/32 list=rkn
@@ -16563,6 +16564,7 @@ add address=54.249.92.0/22 list=rkn
 add address=54.249.96.0/21 list=rkn
 add address=54.249.108.0/22 list=rkn
 add address=54.249.112.0/21 list=rkn
+add address=54.249.120.175/32 list=rkn
 add address=54.249.124.0/22 list=rkn
 add address=54.249.133.190/32 list=rkn
 add address=54.249.138.206/32 list=rkn
@@ -16842,7 +16844,6 @@ add address=63.32.48.0/20 list=rkn
 add address=63.32.60.0/22 list=rkn
 add address=63.32.64.0/21 list=rkn
 add address=63.32.64.0/20 list=rkn
-add address=63.32.79.251/32 list=rkn
 add address=63.32.80.0/21 list=rkn
 add address=63.32.88.0/21 list=rkn
 add address=63.32.96.0/20 list=rkn
@@ -16907,8 +16908,8 @@ add address=63.34.32.0/21 list=rkn
 add address=63.34.40.0/21 list=rkn
 add address=63.34.48.0/21 list=rkn
 add address=63.34.56.0/23 list=rkn
-add address=63.34.64.0/22 list=rkn
-add address=63.34.70.0/23 list=rkn
+add address=63.34.64.0/21 list=rkn
+add address=63.34.71.0/24 list=rkn
 add address=63.34.72.0/21 list=rkn
 add address=63.34.80.0/21 list=rkn
 add address=63.34.88.0/21 list=rkn
@@ -16923,7 +16924,7 @@ add address=63.34.144.0/20 list=rkn
 add address=63.34.156.0/22 list=rkn
 add address=63.34.160.0/20 list=rkn
 add address=63.34.160.0/19 list=rkn
-add address=63.34.182.0/23 list=rkn
+add address=63.34.180.0/22 list=rkn
 add address=63.34.184.0/21 list=rkn
 add address=63.34.192.0/22 list=rkn
 add address=63.34.196.0/22 list=rkn
@@ -16936,8 +16937,7 @@ add address=63.34.232.0/21 list=rkn
 add address=63.34.240.0/21 list=rkn
 add address=63.34.247.176/28 list=rkn
 add address=63.34.248.0/21 list=rkn
-add address=63.35.0.0/23 list=rkn
-add address=63.35.4.0/22 list=rkn
+add address=63.35.0.0/21 list=rkn
 add address=63.35.8.0/21 list=rkn
 add address=63.35.15.253/32 list=rkn
 add address=63.35.16.0/21 list=rkn
@@ -18125,7 +18125,8 @@ add address=81.171.8.226/32 list=rkn
 add address=81.171.12.0/22 list=rkn
 add address=81.171.16.0/20 list=rkn
 add address=81.171.24.0/21 list=rkn
-add address=81.171.81.13/32 list=rkn
+add address=81.171.56.18/32 list=rkn
+add address=81.171.81.0/24 list=rkn
 add address=81.171.98.0/27 list=rkn
 add address=81.176.239.201/32 list=rkn
 add address=81.177.6.121/32 list=rkn
@@ -18193,6 +18194,7 @@ add address=82.199.108.109/32 list=rkn
 add address=82.200.67.182/32 list=rkn
 add address=82.200.204.0/26 list=rkn
 add address=82.200.247.241/32 list=rkn
+add address=82.202.196.194/32 list=rkn
 add address=82.202.221.246/32 list=rkn
 add address=82.202.236.156/32 list=rkn
 add address=82.202.249.6/32 list=rkn
@@ -18545,6 +18547,7 @@ add address=88.99.120.0/21 list=rkn
 add address=88.99.129.219/32 list=rkn
 add address=88.99.134.216/29 list=rkn
 add address=88.99.136.0/21 list=rkn
+add address=88.99.150.152/32 list=rkn
 add address=88.99.167.201/32 list=rkn
 add address=88.99.168.0/23 list=rkn
 add address=88.99.176.0/21 list=rkn
@@ -19721,8 +19724,7 @@ add address=99.80.128.0/21 list=rkn
 add address=99.80.136.0/21 list=rkn
 add address=99.80.144.0/21 list=rkn
 add address=99.80.152.0/21 list=rkn
-add address=99.80.160.0/22 list=rkn
-add address=99.80.164.0/22 list=rkn
+add address=99.80.160.0/21 list=rkn
 add address=99.80.168.0/21 list=rkn
 add address=99.80.177.56/32 list=rkn
 add address=99.80.180.0/22 list=rkn
@@ -19865,7 +19867,7 @@ add address=100.26.16.0/20 list=rkn
 add address=100.26.28.0/22 list=rkn
 add address=100.26.32.0/20 list=rkn
 add address=100.26.40.0/21 list=rkn
-add address=100.26.48.0/21 list=rkn
+add address=100.26.48.0/20 list=rkn
 add address=100.26.56.0/21 list=rkn
 add address=100.26.71.101/32 list=rkn
 add address=100.26.73.152/32 list=rkn
@@ -21737,12 +21739,13 @@ add address=138.201.52.0/23 list=rkn
 add address=138.201.57.48/32 list=rkn
 add address=138.201.62.0/23 list=rkn
 add address=138.201.64.0/20 list=rkn
+add address=138.201.75.184/29 list=rkn
 add address=138.201.84.0/22 list=rkn
 add address=138.201.88.0/21 list=rkn
 add address=138.201.96.0/21 list=rkn
 add address=138.201.106.89/32 list=rkn
 add address=138.201.96.0/19 list=rkn
-add address=138.201.118.0/23 list=rkn
+add address=138.201.119.54/32 list=rkn
 add address=138.201.120.0/22 list=rkn
 add address=138.201.124.32/29 list=rkn
 add address=138.201.129.218/32 list=rkn
@@ -23347,7 +23350,7 @@ add address=175.41.23.216/29 list=rkn
 add address=175.41.31.88/29 list=rkn
 add address=175.41.48.0/21 list=rkn
 add address=175.41.131.73/32 list=rkn
-add address=175.41.147.207/32 list=rkn
+add address=175.41.144.0/22 list=rkn
 add address=175.41.206.0/23 list=rkn
 add address=175.41.208.0/21 list=rkn
 add address=175.41.215.254/32 list=rkn
@@ -23435,7 +23438,7 @@ add address=176.34.40.0/22 list=rkn
 add address=176.34.50.225/32 list=rkn
 add address=176.34.54.0/24 list=rkn
 add address=176.34.96.0/23 list=rkn
-add address=176.34.102.1/32 list=rkn
+add address=176.34.100.0/22 list=rkn
 add address=176.34.105.125/32 list=rkn
 add address=176.34.111.148/32 list=rkn
 add address=176.34.117.137/32 list=rkn
@@ -23492,7 +23495,7 @@ add address=176.113.209.199/32 list=rkn
 add address=176.114.2.8/32 list=rkn
 add address=176.114.4.20/32 list=rkn
 add address=176.114.8.0/22 list=rkn
-add address=176.118.36.0/23 list=rkn
+add address=176.118.32.0/21 list=rkn
 add address=176.118.198.0/23 list=rkn
 add address=176.119.24.0/21 list=rkn
 add address=176.119.141.3/32 list=rkn
@@ -23849,7 +23852,7 @@ add address=184.72.64.0/21 list=rkn
 add address=184.72.72.0/21 list=rkn
 add address=184.72.80.0/20 list=rkn
 add address=184.72.88.0/21 list=rkn
-add address=184.72.96.0/21 list=rkn
+add address=184.72.96.0/20 list=rkn
 add address=184.72.104.0/21 list=rkn
 add address=184.72.112.0/20 list=rkn
 add address=184.72.120.0/21 list=rkn
@@ -24062,6 +24065,7 @@ add address=185.40.12.0/22 list=rkn
 add address=185.41.9.23/32 list=rkn
 add address=185.41.89.246/32 list=rkn
 add address=185.41.160.112/32 list=rkn
+add address=185.42.48.138/32 list=rkn
 add address=185.42.104.0/25 list=rkn
 add address=185.43.208.0/20 list=rkn
 add address=185.43.220.0/22 list=rkn
@@ -24422,8 +24426,8 @@ add address=185.203.240.0/22 list=rkn
 add address=185.204.1.16/32 list=rkn
 add address=185.204.218.0/23 list=rkn
 add address=185.205.40.112/32 list=rkn
-add address=185.205.202.0/23 list=rkn
-add address=185.205.209.0/24 list=rkn
+add address=185.205.192.0/19 list=rkn
+add address=185.205.209.150/32 list=rkn
 add address=185.206.62.93/32 list=rkn
 add address=185.206.144.0/22 list=rkn
 add address=185.206.161.176/32 list=rkn
@@ -25321,7 +25325,7 @@ add address=195.123.240.0/22 list=rkn
 add address=195.123.245.0/24 list=rkn
 add address=195.128.17.144/29 list=rkn
 add address=195.128.118.6/32 list=rkn
-add address=195.133.49.122/32 list=rkn
+add address=195.133.48.0/23 list=rkn
 add address=195.133.197.67/32 list=rkn
 add address=195.135.197.133/32 list=rkn
 add address=195.137.167.2/31 list=rkn
@@ -25879,7 +25883,7 @@ add address=204.155.144.0/21 list=rkn
 add address=204.155.154.0/24 list=rkn
 add address=204.188.203.154/32 list=rkn
 add address=204.232.160.145/32 list=rkn
-add address=204.236.192.0/21 list=rkn
+add address=204.236.192.0/20 list=rkn
 add address=204.236.200.0/21 list=rkn
 add address=204.236.208.0/20 list=rkn
 add address=204.236.220.0/22 list=rkn
