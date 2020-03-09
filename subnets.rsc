@@ -15849,7 +15849,7 @@ add address=81.171.16.0/20 list=rkn
 add address=81.171.24.0/21 list=rkn
 add address=81.176.236.0/22 list=rkn
 add address=81.177.3.148/32 list=rkn
-add address=81.177.22.155/32 list=rkn
+add address=81.177.22.0/23 list=rkn
 add address=81.177.27.160/32 list=rkn
 add address=81.177.136.94/32 list=rkn
 add address=81.177.141.71/32 list=rkn
@@ -20036,7 +20036,7 @@ add address=167.71.248.0/21 list=rkn
 add address=167.86.68.0/22 list=rkn
 add address=167.86.72.0/21 list=rkn
 add address=167.86.80.0/20 list=rkn
-add address=167.86.92.0/22 list=rkn
+add address=167.86.88.0/21 list=rkn
 add address=167.86.96.0/20 list=rkn
 add address=167.86.110.0/25 list=rkn
 add address=167.86.112.0/20 list=rkn
