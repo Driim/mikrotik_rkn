@@ -11658,6 +11658,7 @@ add address=193.151.252.206/32 list=rkn
 add address=193.161.84.0/22 list=rkn
 add address=193.164.128.0/21 list=rkn
 add address=193.164.149.128/25 list=rkn
+add address=193.168.3.92/32 list=rkn
 add address=193.168.224.110/32 list=rkn
 add address=193.169.86.0/24 list=rkn
 add address=193.169.188.0/23 list=rkn
