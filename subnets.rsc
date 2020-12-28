@@ -9169,6 +9169,7 @@ add address=137.74.240.0/27 list=rkn
 add address=137.74.246.67/32 list=rkn
 add address=137.76.185.35/32 list=rkn
 add address=137.117.224.218/32 list=rkn
+add address=137.117.229.31/32 list=rkn
 add address=137.117.245.194/32 list=rkn
 add address=137.135.229.100/32 list=rkn
 add address=137.220.191.2/32 list=rkn
@@ -11758,7 +11759,6 @@ add address=188.124.224.0/19 list=rkn
 add address=188.124.240.0/20 list=rkn
 add address=188.126.76.0/23 list=rkn
 add address=188.127.224.0/21 list=rkn
-add address=188.127.231.126/32 list=rkn
 add address=188.127.232.0/21 list=rkn
 add address=188.127.247.0/29 list=rkn
 add address=188.127.248.0/22 list=rkn
