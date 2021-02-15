@@ -280,6 +280,7 @@ add address=3.219.192.63/32 list=rkn
 add address=3.220.136.178/32 list=rkn
 add address=3.220.180.31/32 list=rkn
 add address=3.221.52.192/32 list=rkn
+add address=3.221.204.205/32 list=rkn
 add address=3.222.50.83/32 list=rkn
 add address=3.222.226.230/32 list=rkn
 add address=3.223.115.185/32 list=rkn
