@@ -8577,7 +8577,6 @@ add address=104.200.28.0/22 list=rkn
 add address=104.200.67.174/32 list=rkn
 add address=104.200.128.9/32 list=rkn
 add address=104.202.8.162/32 list=rkn
-add address=104.202.22.198/32 list=rkn
 add address=104.203.167.208/32 list=rkn
 add address=104.207.131.114/32 list=rkn
 add address=104.207.236.192/32 list=rkn
@@ -11820,6 +11819,7 @@ add address=185.206.144.0/22 list=rkn
 add address=185.206.180.0/24 list=rkn
 add address=185.206.212.0/22 list=rkn
 add address=185.207.204.0/22 list=rkn
+add address=185.207.236.0/24 list=rkn
 add address=185.209.16.0/20 list=rkn
 add address=185.209.160.0/22 list=rkn
 add address=185.211.244.0/22 list=rkn
