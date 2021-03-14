@@ -5340,7 +5340,7 @@ add address=62.122.168.0/21 list=rkn
 add address=62.129.128.0/21 list=rkn
 add address=62.129.221.42/32 list=rkn
 add address=62.138.0.0/22 list=rkn
-add address=62.138.5.196/32 list=rkn
+add address=62.138.4.0/22 list=rkn
 add address=62.138.8.0/21 list=rkn
 add address=62.138.16.0/22 list=rkn
 add address=62.138.137.76/32 list=rkn
