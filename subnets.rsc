@@ -8012,6 +8012,7 @@ add address=99.81.209.76/32 list=rkn
 add address=99.83.175.80/32 list=rkn
 add address=99.83.181.185/32 list=rkn
 add address=99.83.229.146/32 list=rkn
+add address=99.84.5.0/24 list=rkn
 add address=99.84.142.0/24 list=rkn
 add address=99.84.156.59/32 list=rkn
 add address=99.84.238.135/32 list=rkn
