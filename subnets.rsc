@@ -10705,6 +10705,7 @@ add address=172.106.7.239/32 list=rkn
 add address=172.106.88.94/32 list=rkn
 add address=172.106.164.146/32 list=rkn
 add address=172.106.196.246/32 list=rkn
+add address=172.107.228.194/32 list=rkn
 add address=172.110.24.0/21 list=rkn
 add address=172.120.103.42/32 list=rkn
 add address=172.120.232.45/32 list=rkn
