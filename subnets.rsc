@@ -11971,6 +11971,7 @@ add address=185.197.131.155/32 list=rkn
 add address=185.197.160.0/22 list=rkn
 add address=185.198.164.0/22 list=rkn
 add address=185.198.192.42/32 list=rkn
+add address=185.199.108.0/22 list=rkn
 add address=185.200.123.40/32 list=rkn
 add address=185.200.190.0/24 list=rkn
 add address=185.200.229.10/32 list=rkn
