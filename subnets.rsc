@@ -11672,6 +11672,7 @@ add address=185.68.93.0/25 list=rkn
 add address=185.68.108.0/22 list=rkn
 add address=185.68.210.165/32 list=rkn
 add address=185.69.55.0/24 list=rkn
+add address=185.69.148.103/32 list=rkn
 add address=185.69.152.0/22 list=rkn
 add address=185.70.40.0/23 list=rkn
 add address=185.70.73.251/32 list=rkn
