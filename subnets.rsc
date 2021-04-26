@@ -8071,7 +8071,6 @@ add address=95.216.227.85/32 list=rkn
 add address=95.216.232.208/28 list=rkn
 add address=95.216.240.0/21 list=rkn
 add address=95.216.251.192/27 list=rkn
-add address=95.217.15.0/32 list=rkn
 add address=95.217.16.0/21 list=rkn
 add address=95.217.24.0/21 list=rkn
 add address=95.217.32.0/21 list=rkn
