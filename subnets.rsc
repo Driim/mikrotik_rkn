@@ -11009,7 +11009,7 @@ add address=174.129.29.163/32 list=rkn
 add address=174.136.13.128/32 list=rkn
 add address=174.137.180.47/32 list=rkn
 add address=174.137.187.89/32 list=rkn
-add address=174.138.0.0/20 list=rkn
+add address=174.138.0.0/21 list=rkn
 add address=174.138.8.0/21 list=rkn
 add address=174.138.43.128/32 list=rkn
 add address=174.138.92.199/32 list=rkn
