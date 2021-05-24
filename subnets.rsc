@@ -13510,6 +13510,7 @@ add address=206.190.151.168/32 list=rkn
 add address=206.190.215.16/32 list=rkn
 add address=206.214.220.192/32 list=rkn
 add address=206.217.137.40/32 list=rkn
+add address=206.217.221.205/32 list=rkn
 add address=206.221.178.64/29 list=rkn
 add address=206.223.147.208/28 list=rkn
 add address=206.225.80.65/32 list=rkn
