@@ -7213,6 +7213,7 @@ add address=88.208.236.0/22 list=rkn
 add address=88.208.252.0/24 list=rkn
 add address=88.210.34.196/32 list=rkn
 add address=88.212.208.67/32 list=rkn
+add address=88.212.237.4/32 list=rkn
 add address=88.212.251.228/32 list=rkn
 add address=88.214.28.128/28 list=rkn
 add address=88.214.192.0/21 list=rkn
