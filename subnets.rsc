@@ -12181,6 +12181,7 @@ add address=185.203.72.0/24 list=rkn
 add address=185.203.116.0/22 list=rkn
 add address=185.203.240.0/22 list=rkn
 add address=185.204.0.0/22 list=rkn
+add address=185.204.109.252/32 list=rkn
 add address=185.204.218.0/23 list=rkn
 add address=185.205.40.112/32 list=rkn
 add address=185.205.209.150/32 list=rkn
