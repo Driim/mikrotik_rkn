@@ -13779,7 +13779,7 @@ add address=209.86.60.20/31 list=rkn
 add address=209.95.50.0/24 list=rkn
 add address=209.95.56.0/22 list=rkn
 add address=209.97.134.175/32 list=rkn
-add address=209.97.148.0/22 list=rkn
+add address=209.97.149.24/32 list=rkn
 add address=209.97.161.19/32 list=rkn
 add address=209.97.170.230/32 list=rkn
 add address=209.97.176.0/21 list=rkn
