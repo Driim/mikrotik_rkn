@@ -13227,7 +13227,7 @@ add address=195.211.154.53/32 list=rkn
 add address=195.211.180.230/32 list=rkn
 add address=195.211.222.0/23 list=rkn
 add address=195.214.216.139/32 list=rkn
-add address=195.216.243.0/26 list=rkn
+add address=195.216.243.46/32 list=rkn
 add address=195.222.16.224/29 list=rkn
 add address=195.222.32.7/32 list=rkn
 add address=195.225.77.69/32 list=rkn
